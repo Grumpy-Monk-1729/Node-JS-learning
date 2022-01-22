@@ -4,3 +4,9 @@ html,body{
 .bg{
     background-color: red;
 }
+.alumni-details,.row{
+    color: white;
+}
+.center{
+    text-align: center;
+}
