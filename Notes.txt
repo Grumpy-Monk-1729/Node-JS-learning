@@ -1,0 +1,13 @@
+git init
+git add filename
+git status
+git commit
+git push
+
+
+Changes:
+	git add .
+	git commit -m "Description"
+	git push
+	git checkout [Branchname/bash code] : Go back to prev commit/branch
+	git branch branchname : To create a new branch
